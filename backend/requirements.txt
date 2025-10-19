@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+zaproxy
+openai
+python-dotenv
+pydantic<2
